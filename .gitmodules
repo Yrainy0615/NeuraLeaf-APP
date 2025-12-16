@@ -1,0 +1,6 @@
+[submodule "submodule/controlnet"]
+	path = submodule/controlnet
+	url = https://github.com/lllyasviel/ControlNet.git
+[submodule "submodule/stablediffusion"]
+	path = submodule/stablediffusion
+	url = https://github.com/Stability-AI/stablediffusion.git
