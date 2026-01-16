@@ -1,15 +1,9 @@
 # NeuraLeaf
 
-Journal extension of NeuraLeaf.
-
+Journal extension of NeuraLeaf
 [Paper](https://arxiv.org/pdf/2507.12714) | [Project Page](https://neuraleaf-yang.github.io/)
 
 <div align="center">
-  <img src="assets/teaser_v1.png" alt="NeuraLeaf Teaser" width="800"/>
-</div>
-
-
-<!-- <div align="center">
   <img src="assets/teaser_v1.png" alt="NeuraLeaf Teaser" width="800"/>
 </div>
 
